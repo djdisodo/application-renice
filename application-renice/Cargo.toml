@@ -2,6 +2,10 @@
 name = "application-renice"
 version = "0.1.0"
 edition = "2021"
+authors = ["djdisodo@gmail.com"]
+license = "MIT"
+description = "add \"nice -n 1\" to every desktop entry's Exec"
+repository = "https://github.com/djdisodo/application-renice.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
